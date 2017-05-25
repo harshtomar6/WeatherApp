@@ -1,0 +1,68 @@
+body{
+	background: url('http://www.wallpaper1080hd.com/Picture/allimg/c120509/133A2W2RU50-1J40.jpg') no-repeat fixed;
+	background-size: cover;
+}
+h3{
+	color: white;
+	font-size: 50px;
+	font-family: 'Lobster';
+	text-shadow: 2px 5px 5px lightgrey;
+}
+.info{
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgb(0, 0 ,0);
+	opacity: 0.8;
+}
+.search{
+	font-family: 'Economica';
+	font-size: 28px;
+	background-color: lightgrey;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 0;
+	width: 100%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.location{
+	margin-left: 20px;
+}
+#name{
+	font-family: 'Economica';
+	font-size: 30px;	
+}
+#t{
+	font-family: 'Economica';
+	font-size: 24px;
+}
+#icon{
+	width: 70px;
+	height: 70px;
+}
+.displayWeather:inline{
+	display: inline;
+}
+#temp{
+	font-size: 50px;
+	font-family: 'Comfortaa';
+	font-weight: bold;
+	color: black;
+}
+#tabheading{
+	font-family:'Economica';
+	font-size: 22px;
+}
+.content{
+	font-family: 'Comfortaa';
+}
+#unit{
+	font-family: 'Economica';
+	font-size: 24px;
+	font-weight: bold;
+	cursor: pointer;
+}
+#foot{
+	font-family: 'Economica';
+	font-size: 25px;
+	text-shadow: 2px 2px 2px rgb(0,0,0);
+}

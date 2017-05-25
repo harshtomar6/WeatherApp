@@ -1,0 +1,1 @@
+A Simple weather app making use of openWeatherMap API for FCC(FreeCodeCamp) Project
